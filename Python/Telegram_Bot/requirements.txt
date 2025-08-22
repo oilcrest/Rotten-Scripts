@@ -10,7 +10,7 @@ earthengine-api==0.1.224
 face-recognition-models==0.3.0
 Flask==1.1.2
 folium==0.11.0
-future==0.18.2
+future==1.0.0
 futures==3.1.1
 google-api-core==1.19.0
 google-api-python-client==1.9.1
@@ -30,14 +30,14 @@ ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.17.0
 Jinja2==2.11.2
-lxml==4.5.1
+lxml==4.9.1
 markovmeme==0.0.1
 notify2==0.3.1
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==10.3.0
 pprint==0.1
 prettyprinter==0.18.0
 prompt-toolkit==3.0.5
